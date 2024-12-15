@@ -22,8 +22,6 @@ Welcome to my Python portfolio! This repository showcases a variety of Python pr
 - **APIs and Integrations**  
 - **Object-Oriented Programming**  
 
-## 📦 Installation Instructions:
-To run any of the projects locally, clone this repository and follow the setup instructions provided in each project's folder.
+##🧩 About Me:
+I am a passionate Data Engineer | SWE  dedicated to creating efficient, scalable, and impactful solutions. This portfolio reflects my journey of learning, experimenting, and building with Python.
 
-```bash
-git clone https://github.com/yourusername/python-portfolio.git
