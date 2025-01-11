@@ -1,0 +1,14 @@
+This is a repo of my projects I do for learning ML/AI - and also getting a good feel of writing python scripts.
+
+As you can see there is till now 3 Folders:
+
+1 - Automations :: this is for simple local scripts you can run to automate simple task on your machine.
+
+2 - Data_Analysis :: this is for practicing my Data_Analysis skills and know more about it.
+
+3 - Games :: just read the folder name :>
+
+4 - Stuff_that_is_being_used :: simply for things i need to run some scripts or data sets. 
+
+--> You will also see a QR code img, it is a invite link to my discord server. scan it and come and join me and my friends :)
+
