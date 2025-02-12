@@ -1,12 +1,12 @@
-import os
-import shutil
-import logging
+import os # For listing files in a directory
+import shutil # For moving files
+import logging # For logging
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 path = r"C:/Users/abo-k/Downloads/"
-files = os.listdir(path)
+files = os.listdir(path) # List all files in the directory
 
 # File names
 file_names = [
@@ -42,7 +42,7 @@ extensions = {
 
 # Creating folders if they do not exist
 for folder in file_names:
-    folder_path = os.path.join(path, folder)
+    folder_path = os.path.join(path, folder) 
     try:
         if not os.path.exists(folder_path):
             os.mkdir(folder_path)
@@ -105,3 +105,6 @@ for file in files:
             logging.info(f"Moved {file} to Others folder")
         except Exception as e:
             logging.error(f"Error moving {file} to Others: {e}")
+            
+            
+        
