@@ -16,21 +16,6 @@ The interface features:
 
 ---
 
-## 🖼️ Visualization
-+---------------------------------------------------+
-| Hello \User : > | <-- Top centered greeting label
-+---------------------------------------------------+
-| [ C:\Users\Example\Downloads\ ] [ Organize ] | <-- Input box + button side by side
-+---------------------------------------------------+
-| Logs: | <-- Scrollable text area showing logs
-| > Moving file1.pdf to Document Files |
-| > Moving image1.jpg to Image Files |
-| > Error: Permission denied to move secret.txt |
-| ... |
-+---------------------------------------------------+
-
----
-
 ## ⚙️ How to Download and Setup
 
 ### 1. Clone or Download the Repository
@@ -99,8 +84,4 @@ Integrate with cloud storage or sync tools
 
 Feel free to fork the repo, open issues, or submit pull requests. Together we can make organizing files effortless!
 
-
----
-
-You can save this content as `README.md` in your project root. Let me know if you want me to generate the `requirements.txt` or other setup files!
 
