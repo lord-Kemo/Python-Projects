@@ -41,7 +41,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-(Currently includes watchdog if used, otherwise standard libraries only)
+
 
 ### 4. Run the App
 ```bash
